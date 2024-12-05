@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38627548699",
+    "project_id": "targetted-money-saver",
+    "storage_bucket": "targetted-money-saver.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38627548699:android:3ab49f851b501ca4c6a2be",
+        "android_client_info": {
+          "package_name": "com.example.idtokentest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-XUF8NE7RSAd59kiXE62j12oaHALG0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
